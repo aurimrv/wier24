@@ -1,8 +1,8 @@
-# WIER`2024
+# WIER'2024
 
 ## Pre-requirements
 
-Scripts below uses ProteumIM testing tool which requires to set a environment variable called `PROTEUMIMHOME` pointing to ProteumIM baase directory. 
+Scripts below uses ProteumIM testing tool which requires to set a environment variable called `PROTEUMIMHOME` pointing to ProteumIM base directory. 
 
 ### Configure ProteumIM - Mutation Testing tool for C
 
